@@ -1,0 +1,15 @@
+1
+Arroz
+50
+5.50
+Alimentos
+10
+1
+Feijao
+30
+8.90
+Alimentos
+5
+2
+7
+0
